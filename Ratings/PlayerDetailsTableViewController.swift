@@ -19,7 +19,7 @@ class PlayerDetailsTableViewController: UITableViewController {
     
     required init(coder aDecoder: NSCoder) {
         print("init PlayerDetailsTableViewController")
-        super.init(coder: aDecoder)
+        super.init(coder: aDecoder)!
     }
     
     deinit {
