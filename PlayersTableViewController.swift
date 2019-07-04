@@ -2,8 +2,8 @@
 //  PlayersTableViewController.swift
 //  Ratings
 //
-//  Created by hexadecymalny on 23/07/15.
-//  Copyright © 2015 hexadecymalny. All rights reserved.
+//  Created by Pawel Milek on 23/07/15.
+//  Copyright © 2015 Pawel Milek. All rights reserved.
 //
 
 import UIKit
